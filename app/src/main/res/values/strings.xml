@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoodGoodSee電影院</string>
+    <string name="name">電影名稱：</string>
+    <string name="date">上映日期：</string>
+    <string name="info">劇情簡介：</string>
+    <string name="reservation">立即訂票</string>
+    <string name="more">更多資訊</string>
+    <string name="goback">返回上頁</string>
+    <string name="thanks">= 感謝您的訂購，期待再次為您服務 =</string>
+</resources>
